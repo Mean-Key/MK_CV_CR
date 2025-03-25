@@ -1,4 +1,4 @@
-# MK's Video Recorder 
+# MK's Cartoon Rendering
 
 ## 📌 개요
 이 프로그램은 OpenCV를 사용하여 내가 원하는 이미지를 만화(cartoon) 스타일로 변환하는 프로그램입니다.   
