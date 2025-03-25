@@ -32,14 +32,14 @@
 ## :o: 만화같은 느낌이 잘 표현되는 이미지
 <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/character.png" width="300" height="200"/>  :arrow_forward:  <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/character-cr.png" width="300" height="200"/>
 
-- 명암 대비가 뚜렷한 이미지
-이유: 엣지 검출이 뚜렷하게 이루어지고, 색상이 단순화될 때도 자연스럽게 보임.
+### 명암 대비가 뚜렷한 이미지
+- 엣지 검출이 뚜렷하게 이루어지고, 색상이 단순화될 때도 자연스럽게 보임.
 
 ## :x: 만화같은 느낌이 잘 표현되지 않는 이미지
-<img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face.png"/>  :arrow_forward:  <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face-cr.png">
+<img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face.png"/> :arrow_forward:  <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face-cr.png">
 
-- 배경이 단순하고 색이 적은 이미지
-문제점: 색이 거의 없으면 `bilateralFilter`의 효과가 미미하며, 엣지 검출도 의미가 없어질 가능성이 있음.
+### 배경이 단순하고 색이 적은 이미지   
+- 색이 거의 없으면 `bilateralFilter`의 효과가 미미하며, 엣지 검출도 의미가 없어질 가능성이 있음.
 
 ## :heavy_exclamation_mark: 알고리즘의 한계점
 1. 조명과 명암에 민감 : 너무 밝거나 어두운 이미지에서는 엣지 검출이 부정확하게 작동할 수 있음.
