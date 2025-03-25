@@ -30,7 +30,7 @@
  cv2.destroyAllWindows()
 ```
 ## :o: 만화같은 느낌이 잘 표현되는 이미지
-<img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/character.png" width="600" height="400"/>   
+<img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/character.png" width="200" height="300"/>   
 
 
 ## :x: 만화같은 느낌이 잘 표현되지 않는 이미지
