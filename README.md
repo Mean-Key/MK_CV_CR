@@ -39,7 +39,7 @@
 <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face.png"/> :arrow_forward:  <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face-cr.png">
 
 ### 배경이 단순하고 색이 적은 이미지   
-- 색이 거의 없으면 `bilateralFilter`의 효과가 미미하며, 엣지 검출도 의미가 없어질 가능성이 있음.
+- 색이 거의 없으면 `bilateralFilter`의 효과가 미미함.
 
 ## :heavy_exclamation_mark: 알고리즘의 한계점
 ### 1. 조명과 명암에 민감
