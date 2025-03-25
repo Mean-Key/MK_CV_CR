@@ -32,13 +32,13 @@
 ## :o: 만화같은 느낌이 잘 표현되는 이미지
 <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/character.png" width="300" height="200"/>  ➡  <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/character-cr.png" width="300" height="200"/>
 
-### - 명암 대비가 뚜렷한 이미지
+- 명암 대비가 뚜렷한 이미지
 : 엣지 검출이 뚜렷하게 이루어지고, 색상이 단순화될 때도 자연스럽게 보임.
 
 ## :x: 만화같은 느낌이 잘 표현되지 않는 이미지
 <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face.png"/> ➡  <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face-cr.png">
 
-### - 배경이 단순하고 색이 적은 이미지   
+- 배경이 단순하고 색이 적은 이미지   
 : 색이 거의 없으면 `bilateralFilter`의 효과가 미미함.
 
 ## :heavy_exclamation_mark: 알고리즘의 한계점
