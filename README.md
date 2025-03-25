@@ -34,7 +34,7 @@
 
 
 ## :x: 만화같은 느낌이 잘 표현되지 않는 이미지
-<img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face.png" width="300" height="200"/>  :arrow_forward:  <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face-cr.png" width="300" height="200"/>
+<img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face.png"/>  :arrow_forward:  <img src="https://github.com/Mean-Key/MK_CV_CR/blob/main/img/face-cr.png" width="300" height="200"/>
 
 
 ## :heavy_exclamation_mark: 알고리즘의 한계점
