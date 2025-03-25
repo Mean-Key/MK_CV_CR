@@ -30,7 +30,7 @@
  cv2.destroyAllWindows()
 ```
 ## :o: 만화같은 느낌이 잘 표현되는 이미지
-
+img/character-cr.png
 
 ## :x: 만화같은 느낌이 잘 표현되지 않는 이미지
 
